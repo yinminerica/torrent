@@ -1,0 +1,13 @@
+{
+  "name": "Lunik-Torrent",
+  "description": "Web torrent client with directory storage",
+  "repository": "https://github.com/Lunik/Lunik-Torrent",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static", "webtorrent", "cloud"],
+  "env": {
+    "MASTER_KEY": {
+      "description": "The key to administrate the app.",
+      "required": true
+    }
+  }
+}
